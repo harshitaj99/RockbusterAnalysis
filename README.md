@@ -8,7 +8,7 @@ This project analyzes Rockbuster Stealth's data to uncover key business insights
 3. Where are our customers located geographically?
 4. Which regions have the highest concentration of high-value customers?
 5. How do sales compare across different regions?
-Context: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
+# Context: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
 # Data and Tools
 Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
 # Visualizations
