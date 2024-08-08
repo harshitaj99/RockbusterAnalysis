@@ -15,3 +15,6 @@ Rockbuster relational database management system and Postgre SQL was used for th
 # Visualizations
  Check out the Tableau Public dashboard for interactive insights .
  [Tableau Public](https://public.tableau.com/views/RockbusterAnalysis_17231244848110/Top10Countries?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Final Project PDF: 
+Find a detailed report in the [Final Project PDF]([(https://github.com/harshitaj99/RockbusterAnalysis/blob/main/PPT_3.10.pdf])
+
