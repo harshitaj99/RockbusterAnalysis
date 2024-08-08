@@ -15,9 +15,9 @@ Rockbuster relational database management system and Postgre SQL was used for th
 # Project Deliverables
 The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 # Final Analysis
-SQL queries addressing the management’s questions.
-Visualizations in Tableau Public.
-A narrative story combining data insights with business strategies.
+1. SQL queries addressing the management’s questions.
+2. Visualizations in Tableau Public.
+3. A narrative story combining data insights with business strategies.
 # Visualizations
  Check out the Tableau Public dashboard for interactive insights .
  [Tableau Public](https://public.tableau.com/views/RockbusterAnalysis_17231244848110/Top10Countries?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
