@@ -14,4 +14,4 @@ This project involves using SQL for in-depth data analysis to address queries fr
 Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
 # Visualizations
  Check out the Tableau Public dashboard for interactive insights .
- [Tableau Public](https://public.tableau.com/shared/74XMC726P?:display_count=n&:origin=viz_share_link)
+ [Tableau Public](https://public.tableau.com/views/RockbusterAnalysis_17231244848110/Top10Countries?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
